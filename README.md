@@ -14,6 +14,8 @@ We created an interactive user interface that lets users choose environmental fa
 
 ![tamu1](https://user-images.githubusercontent.com/87089936/143787404-dee67d9f-ea4f-4b2a-8607-652171dafa74.PNG)
 
+![tamu2](https://user-images.githubusercontent.com/87089936/143787459-5be20eae-1623-4d76-9813-beac3d864b4d.PNG)
+
 <h2>What we learned:</h2>
 - Working with a new data warehouse platform and new data. None of us has worked with Snowflake before so it was a hurdle at the beginning to get used to the platform and extract data we need for our analysis. Yet it was a great learning experience as we all learned so much from looking into it together. Representatives from Goldman Sachs were very approachable and helpful with that too. We also built up our domain knowledge when researching the problem to understand and analyze the given financial and environmental data.<br /> 
 - Work with big data and collaborative coding<br /> 
