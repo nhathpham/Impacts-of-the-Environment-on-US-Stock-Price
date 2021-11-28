@@ -36,9 +36,9 @@ Through our process of creating the demo and analysis of the data, we found a ne
 + Environment indicators data were only available on a yearly estimates, while stock prices are volatile by day/hours. This makes it more challenging to correctly identify the correlation of these two factors.<br /> 
 
 <h2>Future Work:</h2>
-We hope to add further compatibility with dynamic plotting in the user interface for more visualizations. We also want to account for a larger set of environmental factors, including precipitation, humidity, and particulate matter. The ultimate goal is to generate more specific correlation matrix metrics to provide specific variable insights to users. 
+We hope to add further compatibility with dynamic plotting in the user interface for more visualizations. We also want to account for a larger set of environmental factors, including precipitation, humidity, and particulate matter. The ultimate goal is to generate more specific correlation matrix metrics to provide specific variable insights to users. <br /> 
 
   
 <h2>Results Presentation:</h2> 
-[https://www.youtube.com/watch?v=_cdxCKAJTA8](url)
+[https://www.youtube.com/watch?v=_cdxCKAJTA8](url)<br /> 
 [https://docs.google.com/presentation/d/16zxH9t-UvXI2a-QQGV9KDtWtvMxwHxFZYTuhMgWxWCI/edit?usp=sharing](url)
