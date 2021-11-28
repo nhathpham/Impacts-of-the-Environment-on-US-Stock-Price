@@ -41,3 +41,4 @@ We hope to add further compatibility with dynamic plotting in the user interface
   
 <h2>Results Presentation:</h2> 
 [https://www.youtube.com/watch?v=_cdxCKAJTA8](url)
+[https://docs.google.com/presentation/d/16zxH9t-UvXI2a-QQGV9KDtWtvMxwHxFZYTuhMgWxWCI/edit?usp=sharing](url)
