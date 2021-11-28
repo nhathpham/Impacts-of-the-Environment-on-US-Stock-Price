@@ -10,7 +10,9 @@ Authors: Deep Desai, Nhat Pham, Rishabh Prasad
 - We are interested in exploring how environment and weather indicators and stock markets are correlated and tied together. Our results can enable us to build models to predict risk events and discover investment opportunities based on environmental variations<br /> 
 
 <h2>Final Product:</h2>
-We created an interactive user interface that lets users choose environmental factors and industries to analyze. Then, by pulling corresponding data from the cloud database, the program will provide visualizations of pertinent information that communicates common trends between gas emissions or temperature and stock success by industry over the past 40 years.
+We created an interactive user interface that lets users choose environmental factors and industries to analyze. Then, by pulling corresponding data from the cloud database, the program will provide visualizations of pertinent information that communicates common trends between gas emissions or temperature and stock success by industry over the past 40 years. Find the tool in the file attached ('interface.py')
+![tamu1](https://user-images.githubusercontent.com/87089936/143787334-539c0d68-341d-4439-ae4c-c960ed8a2acd.PNG)
+![tamu2](https://user-images.githubusercontent.com/87089936/143787335-abd10d04-7bd2-4da6-be97-030b5308c6b0.PNG)
 
 <h2>What we learned:</h2>
 - Working with a new data warehouse platform and new data. None of us has worked with Snowflake before so it was a hurdle at the beginning to get used to the platform and extract data we need for our analysis. Yet it was a great learning experience as we all learned so much from looking into it together. Representatives from Goldman Sachs were very approachable and helpful with that too. We also built up our domain knowledge when researching the problem to understand and analyze the given financial and environmental data.<br /> 
